@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&gt; Mariam&#39;s Space</title>
+    <link>https://mariamiisa.github.io/</link>
+    <description>Recent content on &gt; Mariam&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 22 Jul 2021 03:33:09 +0300</lastBuildDate><atom:link href="https://mariamiisa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Made This Blog</title>
+      <link>https://mariamiisa.github.io/posts/2021/07/why-i-made-this-blog/</link>
+      <pubDate>Thu, 22 Jul 2021 03:33:09 +0300</pubDate>
+      
+      <guid>https://mariamiisa.github.io/posts/2021/07/why-i-made-this-blog/</guid>
+      <description>Well, so far it&amp;rsquo;s just for testing purposes. But to be honest, I always dreamt of having a personal website.. so I guess the time has finally come to fulfill my desire.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mariamiisa.github.io/about/</link>
+      <pubDate>Thu, 22 Jul 2021 02:17:00 +0300</pubDate>
+      
+      <guid>https://mariamiisa.github.io/about/</guid>
+      <description>Under construction :3</description>
+    </item>
+    
+  </channel>
+</rss>
